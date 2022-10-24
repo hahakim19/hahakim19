@@ -1,4 +1,4 @@
-<div align="center"><h1>  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Hi, i am  Hakim Tami </br><h2> A Full Stack developer</h2> </h1> </div>
+<div align="center"><h1>  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Hi, i am  Hakim Tami   </h1> </div>
 
 
 # Tech Stack
